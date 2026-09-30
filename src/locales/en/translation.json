@@ -1,0 +1,35 @@
+{
+  "welcomeUser": "Welcome, {{name}} from {{location}}!",
+  "typewriter": {
+    "line1": "Smart Farming for Everyone.",
+    "line2": "Empowering Soil and Sustainability.",
+    "line3": "Maximizing Yield with AI."
+  },
+  "cta": {
+    "startPlanning": "Start Planning",
+    "checkMarket": "Check Market Prices"
+  },
+  "carousel": {
+    "caption1": "Happy farmer with tomato yield",
+    "caption2": "Smiling after organic paddy harvest",
+    "caption3": "Chickpea success with intercropping"
+  },
+  "why": {
+    "heading": "Why SowSure for AgriN?",
+    "point1": "Localised recommendations informed by soil, weather, and satellite insights",
+    "point2": "Regenerative intercropping, rotation, and soil-health plans",
+    "point3": "Early disease guidance, market signals, and profit forecasts",
+    "point4": "A multilingual digital public good for climate-resilient farming"
+  },
+  "tasks": {
+    "0": "💧 Time to water your tomato field.",
+    "1": "🌱 Apply organic compost to your chickpea bed.",
+    "2": "🧪 Test soil pH for your upcoming paddy rotation.",
+    "3": "☀️ Weeding scheduled for coriander section today.",
+    "4": "🚜 Plan irrigation — forecast shows no rain tomorrow."
+  },
+  "footer": {
+    "note": "SowSure supports BRICS AgriN cooperation and",
+    "credit": "Built by Team Thunders ⚡ for climate-resilient food systems."
+  }
+}

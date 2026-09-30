@@ -1,0 +1,7 @@
+/* calendarOverrides.css */
+.react-calendar__tile.highlight-day {
+  background: #d9f99d !important; /* Tailwind lime-100 */
+  border-radius: 8px;
+  font-weight: 600;
+  color: #365314; /* Tailwind lime-900 */
+}
