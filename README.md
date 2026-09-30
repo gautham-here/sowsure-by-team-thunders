@@ -87,7 +87,7 @@ src/
 | Gautham R | [gautham-here](https://github.com/gautham-here) | [gautham-r2005](https://www.linkedin.com/in/gautham-r2005) | gr0gautham@gmail.com |
 | LalithKishore M | [Lalithkishore365](https://github.com/Lalithkishore365) | [lalithkishore37](https://www.linkedin.com/in/lalithkishore37) | lalithkishore2109@gmail.com |
 | P A Athithiya | [athisivesh](https://github.com/athisivesh) | [athisivesh](https://www.linkedin.com/in/athisivesh) | athithiya.pa@gmail.com |
-| Mathesh V | [MarvelMathesh](https://github.com/MarvelMathesh) | [vmathesh2005] (https://www.linkedin.com/in/vmathesh2005) | 123v.mathesh@gmail.com |
+| Mathesh V | [MarvelMathesh](https://github.com/MarvelMathesh) | [vmathesh2005](https://www.linkedin.com/in/vmathesh2005) | 123v.mathesh@gmail.com |
 
 Mathesh V is a member of the current team. Profile and contact links will be added when available.
 
