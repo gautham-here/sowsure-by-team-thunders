@@ -23,6 +23,9 @@ export default function About() {
     },
     {
       name: "Mathesh V",
+      email: "123v.mathesh@gmail.com",
+      linkedin: "https://www.linkedin.com/in/vmathesh2005",
+      github: "https://github.com/MarvelMathesh",
     },
   ];
 
