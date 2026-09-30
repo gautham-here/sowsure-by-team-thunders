@@ -89,8 +89,6 @@ src/
 | P A Athithiya | [athisivesh](https://github.com/athisivesh) | [athisivesh](https://www.linkedin.com/in/athisivesh) | athithiya.pa@gmail.com |
 | Mathesh V | [MarvelMathesh](https://github.com/MarvelMathesh) | [vmathesh2005](https://www.linkedin.com/in/vmathesh2005) | 123v.mathesh@gmail.com |
 
-Mathesh V is a member of the current team. Profile and contact links will be added when available.
-
 ## Feedback and Collaboration
 
 Use the in-app feedback form to share ideas or report issues. For collaboration on regenerative agriculture, agricultural data models, or country-specific integrations, open an issue or pull request in the repository.
